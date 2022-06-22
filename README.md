@@ -12,4 +12,4 @@ This lecture covered a TON. For a basic rundown:
 
 ## Modular App Folder Structure
 
-The structure we used in this application is built around the idea that there are at least 2 distinct and separate applications that make up the overall application. These are the [client](FullStackMERNBreakdown/tree/lecture-code/packages/client) and [server](FullStackMERNBreakdown/tree/lecture-code/packages/server) applications.
+The structure we used in this application is built around the idea that there are at least 2 distinct and separate applications that make up the overall application. These are the [client](tree/lecture-code/packages/client) and [server](tree/lecture-code/packages/server) applications.
